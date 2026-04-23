@@ -115,7 +115,7 @@ O projeto foi construído com uma abordagem responsiva, garantindo uma navegaç�
 
 Caso queira desenvolver um projeto semelhante ou melhorar sua presença digital:
 
-* 📱 WhatsApp: ttps://wa.me/5585997013067
+* 📱 WhatsApp: https://wa.me/5585997013067
 * 🌐 Portfólio: https://devforgeweb.netlify.app/
 
 ---
